@@ -1,10 +1,10 @@
-# Web Development Project 4 - *Name of App Here*
+# Web Development Project 4 - Harvard Art Explorer
 
-Submitted by: **Your Name Here**
+Submitted by: Phuong Nguyen
 
-This web app: **insert description**
+This web app: Utilizes an API key from Harvard Art Museum (must be requested) to fetch all the artpieces available in the museum.
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
